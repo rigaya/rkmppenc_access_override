@@ -1,0 +1,11 @@
+
+.vscode/
+.depend
+.debpkg
+*.deb
+*.rpm
+*.o
+
+# Build results
+rkmppenc_access_override.so
+config.mak
